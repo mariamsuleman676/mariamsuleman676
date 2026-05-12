@@ -5,7 +5,7 @@
 
 <br/>
 
-<h3>💻 Frontend Developer | Tailwind CSS Enthusiast | Responsive Web Designer</h3>
+<h3>💻 Mariam Suleman | Frontend Developer | Tailwind CSS Developer</h3>
 
 <p>
   <a href="https://github.com/" target="_blank">
@@ -27,13 +27,13 @@
 
 ## 👩‍💻 About Me
 
-I'm a passionate **Frontend Developer** who loves creating modern, responsive, and user-friendly websites using **HTML, CSS, and Tailwind CSS**.  
+I'm **Mariam Suleman**, a passionate **Frontend Developer** who loves creating modern, responsive, and user-friendly websites using **HTML, CSS, and Tailwind CSS**.  
 
-- 🌱 Currently learning advanced frontend development
-- 🎨 Focused on clean UI & responsive design
-- ⚡ Skilled in Tailwind CSS layouts and styling
-- 💻 Building portfolio and frontend projects
-- 🚀 Interested in modern web technologies
+- 🌱 Currently learning advanced frontend development  
+- 🎨 Focused on clean UI & responsive design  
+- ⚡ Skilled in Tailwind CSS layouts and styling  
+- 💻 Building portfolio and frontend projects  
+- 🚀 Interested in modern web technologies  
 
 ---
 
@@ -55,9 +55,9 @@ I'm a passionate **Frontend Developer** who loves creating modern, responsive, a
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=MariamSuleman&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariamSuleman&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -66,8 +66,8 @@ I'm a passionate **Frontend Developer** who loves creating modern, responsive, a
 ## 🌟 Goals
 
 ```text
-✅ Improve frontend development skills
-✅ Build responsive websites
-✅ Learn JavaScript & React
-✅ Create professional portfolio projects
-✅ Become a full stack developer
+✅ Improve frontend development skills  
+✅ Build responsive websites  
+✅ Learn JavaScript & React  
+✅ Create professional portfolio projects  
+✅ Become a full stack developer  
